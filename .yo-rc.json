@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "it.f2informatica.jhipster.blog",
+      "nativeLanguage": "it"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "monolith",
+    "baseName": "blog",
+    "packageName": "it.f2informatica.jhipster.blog",
+    "packageFolder": "it/f2informatica/jhipster/blog",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2YyYmI0NWE0Njk3ZGViZjM5NjRmNGU0YjI4OWI5NGM1Y2ViNTYyMDY4ZTE3YWZlYzc0YTRiZWEwMWM4OTU4MWNmNWMzZTUxZjc3ZjI1NjA4ZWU0MDRmMTRiYzk3ZDYxNjE4NWJlZTYxOGUwZDM4NjU5YjEyNWViNGU1NDhkNmQ=",
+    "clientFramework": "angularX",
+    "clientTheme": "cosmo",
+    "clientThemeVariant": "light",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": ["gatling", "cucumber", "protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "it",
+    "languages": ["it", "en"]
+  }
+}
